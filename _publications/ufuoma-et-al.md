@@ -7,7 +7,7 @@ excerpt: 'Heat is associated with increased risk of morbidity and mortality. Peo
 date: 2024-09-24
 venue: 'Geohealth'
 slidesurl: #
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: #
 bibtexurl: #
 citation: 'Ovienmhada, U., Hines, M., Krisch, M.,Diongue, A. T., Minchew, B., & Wood, D.R. (2024). Spatiotemporal facility‐levelpatterns of summer heat exposure,vulnerability, and risk in United Statesprison landscapes. GeoHealth, 8,e2024GH001108.'
 ---
