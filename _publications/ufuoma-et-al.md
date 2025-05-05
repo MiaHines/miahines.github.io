@@ -2,13 +2,13 @@
 title: "Spatiotemporal Facility-Level Patterns of Summer Heat Exposure, Vulnerability, and Risk in United States Prison Landscapes"
 collection: publications
 category: manuscripts
-permalink: /publication/spatiotemporal
+permalink: #
 excerpt: 'Heat is associated with increased risk of morbidity and mortality. People who are incarcerated are especially vulnerable to heat exposure due to demographic characteristics and their conditions of confinement. Evaluating heat exposure in prisons, and the characteristics of exposed populations and prisons, can elucidate prison-level risk to heat exposure. We leveraged a high-resolution air temperature data set to evaluate short and long-term patterns of heat metrics for 1,614 prisons in the United States from 1990 to 2023. We found that the most heat-exposed facilities and states were mostly in the Southwestern United States, while the prisons with the highest temperature anomalies from the historical record were in the Pacific Northwest, the Northeast, Texas, and parts of the Midwest. Prisons in the Pacific Northwest, the Northeast, and upper Midwest had the highest occurrences of days associated with an increased risk of heat-related mortality. We also estimated differences in heat exposure at prisons by facility and individual-level characteristics. We found higher proportions of non-white and Hispanic populations in the prisons with higher heat exposure. Lastly, we found that heat exposure was higher in prisons with any of nine facility-level characteristics that may modify risk to heat. This study brings together distinct measures of exposure, vulnerability, and risk, which would each inform unique strategies for heat-interventions. Community leaders and policymakers should carefully consider which measures they want to apply, and include the voices of directly impacted people, as the differing metrics and perspectives will have implications for who is included in fights for environmental justice.'
 date: 2024-09-24
 venue: 'Geohealth'
 slidesurl: #
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: #
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ovienmhada, U., Hines, M., Krisch, M.,Diongue, A. T., Minchew, B., & Wood, D.R. (2024). Spatiotemporal facility‐levelpatterns of summer heat exposure,vulnerability, and risk in United Statesprison landscapes. GeoHealth, 8,e2024GH001108.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
