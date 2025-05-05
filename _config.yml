@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Mia Hines"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hello! I'm Mia Hines, a second-year PhD Student in Computer Science & Engineering Department @ WashU. Nice to meet you!"
   location         : "St. Louis, MO."
   employer         : "Washington University in St. Louis"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-3513-4901"
   semantic         : # URL
