@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Hello World"
+title: "A Little Bit About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ I'm a second-year PhD student in Computer Science Department at Washington University in St. Louis. I've has been awarded multiple research fellowships including Clare Booth Luce Graduate Fellowship, AI-ACCESS NRT Fellowship, and GEM Associate Fellowship. I earned a Bachelor of Arts (B.A.) at Grinnell College in Computer Science and a concentration in Statistics. From my department at Grinnell, I was awarded 2024 Henry M. and Theresa P. Walker Endowed Prize for Excellence in Computer Science. I have served as an undergraduate research assistant in Human-Computer Interaction, Social Computing, and Data Science at Brown University (2022) and MIT (2023). I'm also passionate about academic engagement within my community. I've served as Instructor Assistant at Kode With Klossy (KWK) in March and ran a coding club for local middle school students (2023-2024). Academia in Computer Science is the medium for facilitating the change I want to see in the world.
+
 
 A data-driven personal website
 ======
