@@ -13,7 +13,7 @@ redirect_from:
 Research Interests + Current Projects
 ======
 I'm still discovering my overall research topic. But, I'm becoming further interested in mapping specific psychological inferences to visual aspects within a data visualization. However, I'm still spending time in diversifying my interests and exploring various subfields in visualization. I find this will improve my capabilites as a visualization researcher and help to further decide a long-term focus in my Ph.D. I'm currently working on projects related to visualization literacy, visual attention, design guidelines, and social impact. More specifics of my current projects are reported in the following. 
-1. Creating a gamified version of visualization literacy assessment to increase data collection of a diverse audiences. 
+1. Creating a gamified version of a visualization literacy assessment to increase data collection of a diverse audiences. 
 1. Developing experiments to map visual aspects to attention and types of thinking (naturalistic vs long-term). 
-1. Writing a paper on the gaps between practioner design guidelines and empirical evidence found in the literature. 
+1. Writing a paper on the gaps between practitioner design guidelines and empirical evidence found in the literature. 
 1. Analyzing how visualizations are used in the news media.
