@@ -27,6 +27,7 @@ redirect_from:
   }
 </style>
 
+ Below is an comprehensive CV. It was updated May 2025. 
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/Final25_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
