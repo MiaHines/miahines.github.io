@@ -13,7 +13,7 @@ I'm broadly interested in analyzing real-world social dissemination and engageme
 
 I've been awarded multiple research fellowships: Clare Boothe Luce Graduate Fellowship, AI-ACCESS NRT Fellowship, and GEM Associate Fellowship. I earned a Bachelor of Arts (B.A.) degree at Grinnell College in Computer Science and a concentration in Statistics in May 2024. I have served as an undergraduate research assistant in Human-Computer Interaction, Social Computing, and Data Science at Brown University (2022) and MIT Media Lab (2023).
 
-Research Interests
+Data Visualization Research Interests 
 ======
 - Public Health 
 - Public Service
