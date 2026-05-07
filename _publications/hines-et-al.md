@@ -10,3 +10,4 @@ slidesurl: #
 paperurl: #
 bibtexurl: #
 citation: ' Hines, M. & Ottley, A. (2026). Charting Public Health: A Taxonomic Study of Visualization Practices in the Public Health Field'
+---

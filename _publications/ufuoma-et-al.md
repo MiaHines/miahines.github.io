@@ -10,3 +10,4 @@ slidesurl: #
 paperurl: #
 bibtexurl: #
 citation: 'Ovienmhada, U., Hines, M., Krisch, M.,Diongue, A. T., Minchew, B., & Wood, D.R. (2024). Spatiotemporal facility‐levelpatterns of summer heat exposure,vulnerability, and risk in United Statesprison landscapes. GeoHealth, 8,e2024GH001108.'
+---
