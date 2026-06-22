@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student in the Computer Science Department at Washington University in St. Louis. I'm in the [VIBE Lab](https://visualdata.wustl.edu/) and advised by Dr. Alvitta Ottley. 
+I'm a third-year PhD student in the Computer Science Department at Washington University in St. Louis. I'm in the [VIBE Lab](https://visualdata.wustl.edu/) and advised by Dr. Alvitta Ottley. 
 
 I'm broadly interested in analyzing real-world social dissemination and engagement with data visualizations. In particular, I primarily evaluate visualization design patterns of public health organizations in consideration of style, accessibility, and messaging. 
 
