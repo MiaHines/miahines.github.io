@@ -59,28 +59,35 @@
 }
 
 .updates-container {
-  margin: 1em 0;
+  margin: 2em 0;
   padding: 1em 1.5em;
-  border-left: 4px solid #ee8383;
+  border-left: 4px solid #9c0000;
 }
 
 .update {
   display: none;
-  min-height: 50px;
 }
 
 .update.active {
   display: block;
 }
 
-.update-date {
+.update time {
   font-size: 0.85em;
   font-weight: bold;
-
-  display: block;
-  margin-bottom: 0.25em;
+  color: #666;
 }
 
 .update p {
-  margin: 0;
+  margin: 0.25em 0;
+}
+
+#update-toggle {
+  margin-top: 1em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .update {
+    transition: none;
+  }
 }

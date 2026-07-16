@@ -21,26 +21,81 @@ Data Visualization Research Interests
 - Accessibility 
 - Infographics
 
-<div class="updates-container">
-  <h2>Updates</h2>
+<section class="updates-container" aria-labelledby="updates-heading">
 
-  <div id="updates">
+  <h2 id="updates-heading">Updates</h2>
+
+  <div 
+    id="updates"
+    aria-live="polite"
+    aria-atomic="true"
+  >
     {% for update in site.data.updates %}
-    <div class="update {% if forloop.first %}active{% endif %}">
-      <span class="update-date">{{ update.date }}</span>
+    <article class="update {% if forloop.first %}active{% endif %}">
+      <time datetime="{{ update.date }}">
+        {{ update.date }}
+      </time>
       <p>{{ update.text }}</p>
-    </div>
+    </article>
     {% endfor %}
   </div>
-</div>
+
+  <button 
+    id="update-toggle"
+    type="button"
+    aria-label="Pause updates rotation">
+    Pause updates
+  </button>
+
+</section>
 
 <script>
-  let updates = document.querySelectorAll(".update");
-  let current = 0;
+document.addEventListener("DOMContentLoaded", function () {
 
-  setInterval(() => {
-    updates[current].classList.remove("active");
-    current = (current + 1) % updates.length;
-    updates[current].classList.add("active");
-  }, 5000);
+  const updates = document.querySelectorAll(".update");
+  const button = document.getElementById("update-toggle");
+
+  let current = 0;
+  let paused = false;
+
+  function showUpdate(index) {
+    updates.forEach(update => {
+      update.classList.remove("active");
+      update.setAttribute("aria-hidden", "true");
+    });
+
+    updates[index].classList.add("active");
+    updates[index].setAttribute("aria-hidden", "false");
+  }
+
+  const interval = setInterval(() => {
+    if (!paused) {
+      current = (current + 1) % updates.length;
+      showUpdate(current);
+    }
+  }, 7000);
+
+  button.addEventListener("click", function () {
+    paused = !paused;
+
+    button.textContent = paused 
+      ? "Resume updates rotation"
+      : "Pause updates rotation";
+
+    button.setAttribute(
+      "aria-label",
+      button.textContent
+    );
+  });
+
+});
+
+const reduceMotion = window.matchMedia(
+  "(prefers-reduced-motion: reduce)"
+).matches;
+
+if (reduceMotion) {
+  paused = true;
+}
+
 </script>
