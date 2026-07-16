@@ -20,3 +20,27 @@ Data Visualization Research Interests
 - Social Engagement 
 - Accessibility 
 - Infographics
+
+<div class="updates-container">
+  <h2>Updates</h2>
+
+  <div id="updates">
+    {% for update in site.data.updates %}
+    <div class="update {% if forloop.first %}active{% endif %}">
+      <span class="update-date">{{ update.date }}</span>
+      <p>{{ update.text }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  let updates = document.querySelectorAll(".update");
+  let current = 0;
+
+  setInterval(() => {
+    updates[current].classList.remove("active");
+    current = (current + 1) % updates.length;
+    updates[current].classList.add("active");
+  }, 5000);
+</script>

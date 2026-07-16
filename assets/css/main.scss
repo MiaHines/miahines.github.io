@@ -57,3 +57,30 @@
   display: block;           // removes inline image spacing
   border-radius: 8px;
 }
+
+.updates-container {
+  margin: 2em 0;
+  padding: 1em 1.5em;
+  border-left: 4px solid #9c0000;
+}
+
+.update {
+  display: none;
+  min-height: 50px;
+}
+
+.update.active {
+  display: block;
+}
+
+.update-date {
+  font-size: 0.85em;
+  font-weight: bold;
+  color: #777;
+  display: block;
+  margin-bottom: 0.25em;
+}
+
+.update p {
+  margin: 0;
+}
