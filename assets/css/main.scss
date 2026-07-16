@@ -86,6 +86,10 @@
   margin-top: 1em;
 }
 
+#updates-heading {
+  margin-top: 0em;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .update {
     transition: none;
