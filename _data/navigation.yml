@@ -21,7 +21,7 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
- - title: "In The Media"
+  - title: "In The Media"
    url: /year-archive/
     
   - title: "CV"
