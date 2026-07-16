@@ -1,0 +1,9 @@
+---
+title: 'Sunny Beaches, Sea Otters, and Other Shenanigans'
+date: 2023-02-23
+permalink: https://storymaps.arcgis.com/stories/5dde1616ea024561a8cc829ba3437647
+tags:
+  - written by me
+  - fun
+  - outside of research
+---
