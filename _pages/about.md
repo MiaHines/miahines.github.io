@@ -79,8 +79,8 @@ document.addEventListener("DOMContentLoaded", function () {
     paused = !paused;
 
     button.textContent = paused 
-      ? "Resume updates rotation"
-      : "Pause updates rotation";
+      ? "Resume rotation"
+      : "Pause updates";
 
     button.setAttribute(
       "aria-label",
