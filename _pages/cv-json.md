@@ -27,7 +27,7 @@ redirect_from:
   }
 </style>
 
- Below is an comprehensive CV. It was updated May 2025. 
+ Below is an comprehensive CV. It was updated October 2026. 
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/MiaHines_CV_2026_Updated.pdf" class="btn btn--primary">Download CV as PDF</a>
