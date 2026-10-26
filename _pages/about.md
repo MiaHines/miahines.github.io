@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third-year PhD student in the Computer Science department at Washington University in St. Louis. I'm in the [VIBE Lab](https://visualdata.wustl.edu/) and advised by Dr. Alvitta Ottley. 
 
-I'm broadly interested in analyzing real-world social dissemination and engagement with data visualizations. In particular, I primarily evaluate visualization design patterns of public health organizations in consideration of style, accessibility, and messaging. 
+In my PhD, I'm broadly interested in analyzing how data visualizations spread and how people engage with them in the real world. In particular, I evaluate visualization design patterns used by public health organizations, focusing on style, accessibility, and messaging. I'm open to exploring roles across industry research, including data science, applied science, AI, ML, user experience, human-computer interaction, and accessibility.  
 
 I've been awarded multiple research fellowships: Clare Boothe Luce Graduate Fellowship, AI-ACCESS NRT Fellowship, and GEM Associate Fellowship. I earned a Bachelor of Arts (B.A.) degree at Grinnell College in Computer Science and a concentration in Statistics in May 2024. I have served as an undergraduate research assistant in Human-Computer Interaction, Social Computing, and Data Science at Brown University (2022) and MIT Media Lab (2023).
 
